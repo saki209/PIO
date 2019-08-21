@@ -1,0 +1,20 @@
+1)git init
+2)git remote add <name> <github repo url>
+3)git remote -v
+4)git remote remove <name>
+5)git rename <old-name> <new-name>
+6)git config --global user.name "<username>"
+		(or)
+  git config --global user.email "<mail attached with github>"
+7) git status
+8)git add <filename>
+9)git add -A 
+10)git add .
+11)git commit -m "<commit massage>"
+12)git commit -a -m "<commit message>"
+13)git log
+14)git show
+15)git checkout <brach name>
+16)git push <variable name> master
+17)git pull <variable name> master
+18)git clone <repo url>
