@@ -1,0 +1,36 @@
+java: https://www.edureka.co/blog/interview-questions/java-interview-questions/
+
+docuprog:https://worldofchaitu.wordpress.com/tag/dfc-sample-code/
+
+dfc:https://www.bluefishgroup.com/insights/articles/session-management-dfc5/
+
+docu:https://onemanwrites.wordpress.com/tag/documentum-administrator/
+
+docuq&a:https://www.wisdomjobs.com/e-university/documentum-interview-questions.html
+
+docuinfo:https://ajithp.com/
+
+docuQ&A:https://onemanwrites.wordpress.com/category/content-management-system/documentum/
+
+dql:https://dionrobin.wordpress.com/2010/02/08/useful-dql-queries/
+
+Documentum:https://msroth.wordpress.com/dm_book/
+
+Captiva:http://www.captivacapture.com/
+
+java:https://www.journaldev.com/
+
+spring documentum:https://www.slideshare.net/michaelmohen/whats-new-in-documentum-73?next_slideshow=1
+		  https://www.slideshare.net/michaelmohen/documentum-spring-data
+
+
+docum: https://uttkarsh.wordpress.com/2010/10/29/which-are-the-repeating-attribures/
+
+regular expresssions:https://regexone.com/
+
+AAT: http://myapps.aandat.com
+
+Eroom:  https://eroom.un.org/eRoomHelp/en/eRoom-7.htm#whatsnew.htm
+
+java and db: https://www.computer-pdf.com/downloading
+java :https://data-flair.training/
