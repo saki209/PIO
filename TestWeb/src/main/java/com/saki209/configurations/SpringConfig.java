@@ -14,10 +14,13 @@ import com.saki209.beans.Person;
 @Configuration
 @ComponentScan(basePackages = "com.saki209")
 public class SpringConfig {
+<<<<<<< HEAD
 	@Bean
 	public Person getperson() {
 		return new Person();
 	}
+=======
+>>>>>>> 8d70f6abcfe282e00af0ed3cd7b1341ca501b503
 	
 	 @Bean
 	    public ViewResolver viewResolver() {

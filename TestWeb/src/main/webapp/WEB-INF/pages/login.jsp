@@ -19,6 +19,7 @@
 <Pre>
 
 </Pre>
+<<<<<<< HEAD
     <form:form action="action_page.php" method="post" commandName="personForm">
       
         <div class="container" align="center">
@@ -29,18 +30,41 @@
         <div  align="center">
           <label for="psw"><b>Password</b></label>
           <input type="password" placeholder="Enter Password" name="psw" path="password" required>
+=======
+    <form:form action="/TestWeb/home" method="post" modelAttribute="person">
+      
+        <div class="container" align="center">
+          <form:label path="username"><b>username</b></form:label>
+          <form:input type="text"  path="username" required="required"></form:input>
+        </div>
+        <br>
+        <div  align="center">
+          <form:label  path="password"><b>Password</b></form:label>
+          <form:input type="password"  path="password" required="required"></form:input>
+>>>>>>> 8d70f6abcfe282e00af0ed3cd7b1341ca501b503
         </div>
 <br>
       <div  align="center">
         <pre>
+<<<<<<< HEAD
       <button type="submit">Login</button>          <button type="submit">Singup</button>
+=======
+      <button type="submit">Login</button>          <button type="submit" formaction="/TestWeb/singup">Singup</button>
+>>>>>>> 8d70f6abcfe282e00af0ed3cd7b1341ca501b503
         </pre>
         </div>
       <div align="center">
         <pre>
+<<<<<<< HEAD
  <input type="checkbox" checked="checked" name="remember"> Remember me   <span class="psw"> <a href="#">Forgot password</a></span>
         <pre>
         </div>
       </form>
+=======
+ <input type="checkbox" checked="checked" name="remember"> Remember me   <span class="psw"> <a href="/TestWeb/reset">Forgot password</a></span>
+        <pre>
+        </div>
+      </form:form>
+>>>>>>> 8d70f6abcfe282e00af0ed3cd7b1341ca501b503
 </body>
 </html>
